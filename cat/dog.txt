@@ -1,0 +1,1 @@
+in mocking jays, you stub the collaborators. d

@@ -1,0 +1,1 @@
+you stub the collaborators, not the test. 
